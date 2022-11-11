@@ -25,7 +25,6 @@
   <a href="mailto:vkg.marcos@gmail.com"><img src="https://img.shields.io/badge/vkg.marcos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 </br>
-<img src="https://activity-graph.herokuapp.com/graph?username=MarcosKern&bg_color=0000&color=8f8fff&line=4040ff&point=8f8fff&hide_border=true&area=true" />
 <div align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=MarcosKern&theme=transparent&show_icons=true" />
   
@@ -36,3 +35,4 @@
 <div align="center">
   <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosKern&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&background=00000000" />
 </div>
+<img src="https://activity-graph.herokuapp.com/graph?username=MarcosKern&bg_color=0000&color=8f8fff&line=4040ff&point=8f8fff&hide_border=true&area=true" />
