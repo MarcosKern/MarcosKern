@@ -18,13 +18,13 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-
+</br>
 ### ContactMe
 <div>
   <a href="https://www.linkedin.com/in/marcoskern/"><img src="https://img.shields.io/badge/in/marcoskern-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vkg.marcos@gmail.com"><img src="https://img.shields.io/badge/vkg.marcos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
+</br>
 <div align="center">
   <img width="46%" src="https://github-readme-stats.vercel.app/api?username=MarcosKern&theme=transparent&show_icons=true" />
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosKern&theme=transparent&layout=compact" />
