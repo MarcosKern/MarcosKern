@@ -30,6 +30,6 @@
   <img width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosKern&theme=transparent&layout=compact" />
 </div>
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=MarcosKern&bg_color=0000&color=ffffff&line=4040ff&point=fff&hide_border=true&area=true" />
+  <img src="https://activity-graph.herokuapp.com/graph?username=MarcosKern&bg_color=0000&color=8f8fff&line=4040ff&point=8f8fff&hide_border=true&area=true" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosKern&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&background=00000000" />
 </div>
