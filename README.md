@@ -1,12 +1,12 @@
 <h1 align="center">Hi there, you can call me Marcos!</h1>
-<h2 align="center">I,m a brazilian front-end web developer passionated by technology.</h2>
+<h2 align="center">Im a brazilian front-end web developer passionated by technology.</h2>
 
 
 ### About me:
 
-<p>I,m 24 old.</p>
-<p>I believe in never stop learning supremacy!</p>
-<p>My cat calls doralice and it's my official pair programming partner.</p>
+<p>Im 24 old.</p>
+<p>Never stop learning!</p>
+<p>My cat calls doralice and its my official pair programming partner.</p>
 <p>Great fan of souls like and roguelike games.</p>
 
 ### Techs:
