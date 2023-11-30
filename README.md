@@ -2,9 +2,11 @@
 <h2 align="center">Sou desenvolvedor full-stack apaixonado por tecnologia.</h2>
 
 
-### About me:
+### Sobre mim:
 
 <p>Tenho 25 anos.</p>
+<p>Desenvolvedor web full-stack formado na TRYBE.</p>
+<p>Apaixonado por estudar sobre novas tecnologias e suas funcionalidades.</p>
 
 ### Stacks:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
