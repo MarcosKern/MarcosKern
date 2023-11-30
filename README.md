@@ -5,8 +5,6 @@
 ### About me:
 
 <p>Tenho 25 anos.</p>
-<p>Tenho uma gata chamada Doralice e ela também é dev.</p>
-<p>Grande fãn de jogos Souls-like e rogue-like.</p>
 
 ### Stacks:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
