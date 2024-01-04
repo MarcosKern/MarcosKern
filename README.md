@@ -25,6 +25,6 @@
 </div>
 </br>
 <div align="center" width="100%">
-  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MarcosKern&theme=transparent&show_icons=true" />
-  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosKern&theme=transparent&layout=compact" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=MarcosKern&theme=transparent&show_icons=true" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosKern&theme=transparent&layout=compact" />
 </div>
