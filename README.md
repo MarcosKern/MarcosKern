@@ -19,18 +19,12 @@
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
 </br>
 ### Contatos
-<div>
+<div align="center">
   <a href="https://www.linkedin.com/in/marcoskern/"><img src="https://img.shields.io/badge/in/marcoskern-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:vkg.marcos@gmail.com"><img src="https://img.shields.io/badge/vkg.marcos@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 </br>
-<div align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api?username=MarcosKern&theme=transparent&show_icons=true" />
-  
-</div>
-<div align="center">
-  <img width="46%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosKern&theme=transparent&layout=compact" />
-</div>
-<div align="center">
-  <img width="46%" src="https://github-readme-streak-stats.herokuapp.com?user=MarcosKern&theme=tokyonight&border_radius=5&date_format=j%20M%5B%20Y%5D&background=00000000" />
+<div align="center" width="100%">
+  <img height="200px" src="https://github-readme-stats.vercel.app/api?username=MarcosKern&theme=transparent&show_icons=true" />
+  <img height="200px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcosKern&theme=transparent&layout=compact" />
 </div>
