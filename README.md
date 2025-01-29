@@ -3,7 +3,7 @@
 
 <p>Tenho 27 anos.</p>
 <p>Desenvolvedor web full-stack formado na TRYBE.</p>
-<p>Estudante de análise e desenvolvimento de sistemas.</p>p
+<p>Estudante de análise e desenvolvimento de sistemas.</p>
 <p>Apaixonado por estudar sobre novas tecnologias e suas funcionalidades.</p>
 
 <div align="center" width="100%">
